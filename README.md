@@ -1,5 +1,5 @@
 # Tetris
-Trabalho final desenvolvido individualmente para a disciplina de Tópicos em Artes Digitais A: Processing 2, optativa do curso de Cinema de Animação e Artes Digitais na UFMG, realizada no segundo semestre de 2018.
+Trabalho final desenvolvido individualmente para a disciplina de Tópicos em Artes Digitais A: Processing 2, optativa do curso de Cinema de Animação e Artes Digitais na UFMG, cursada em 2018/2.
 
 A proposta do trabalho visava complementar os estudos para a disciplina que abordava tópicos mais avançados em Processing. Para tanto, deveríamos demonstrar o aprendizado criando um aplicação que envolvesse pelo menos 3 dentre os seguintes tópicos: arranjos, texto (tipografia), conceitos matemáticos aplicados, transformações geométricas ou processamento de imagens. Minha apliação inclui tipografia, processamento de imagens e arranjos, além de processamento de áudio por interesse pessoal.
 
