@@ -5,7 +5,7 @@ A proposta do trabalho visava complementar os estudos para a disciplina que abor
 
 Ao início da disciplina, foi determinada - como meta pessoal - o desenvolvimento de um jogo para o trabalho final, devido ao interesse na programação como ferramenta aliada da produção artística na criação de jogos. Ao deparar com o tópico arranjos, as peças de Tetris vieram à mente e decidiu-se por desenvolver uma versão do conhecido jogo eletrônico, criando assim todo um processo de pensamento de descontruir o jogo a partir do produto final para entender como seria possível construi-lo do zero.
 
-[**Vídeo demonstrativo do sistema em funcionamento**](https://drive.google.com/file/d/1eoMzuFibu5zPoH-zsEsHmOOdRjABlHXQ/view?usp=sharing)
+[**Vídeo demonstrativo da aplicação em funcionamento**](https://drive.google.com/file/d/1eoMzuFibu5zPoH-zsEsHmOOdRjABlHXQ/view?usp=sharing)
 
 #	Referências
 1.	Tema musical
